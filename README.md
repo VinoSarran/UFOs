@@ -19,10 +19,10 @@ As the user enters criteria the data will narrow and pinpoint exactly what the u
 Here are some shortcomings of  the website: 
 
 1) The User has to view the data before they can accurately fill in their selection.  Case-sensitivity and space will create annoyance and at times missing data.   
-2) The website assumes the user will understand how the site works.  No instrucitons
+2) The website assumes the user will understand how the site works.  No instructions
 
 ### Recommendations:
 
-1) Use drop down lists instead of free form remove burden of matching format
+1) Use drop down lists instead of free form to remove burden of matching format
 2) Leverage google mapping from API module to show a map of selection
 3) Provide a Go/Search button so user interfers that feilds are meant to be filled in
